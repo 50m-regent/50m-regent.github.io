@@ -39690,7 +39690,7 @@ Z.Q3.prototype={
 $0:function(){return T.wk($.XF())},
 $S:48}
 Z.Q4.prototype={
-$0:function(){return T.wk("mailto:len.hirata@gmail.com")},
+$0:function(){return T.wk("mailto:momiimt@gmail.com")},
 $S:48}
 Y.pM.prototype={
 aM:function(){return new Y.Mb(new N.bL(null,[M.jC]),C.t)}}
