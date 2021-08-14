@@ -10,7 +10,7 @@ L.control.scale()
 //function = 関数の定義
 //return = 引数を返すように指示する
 
-L.Icon.Default.imagePath = 'marker.png'
+L.Icon.Default.imagePath = './'
 
 
 //日本
