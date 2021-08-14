@@ -10,6 +10,8 @@ L.control.scale()
 //function = 関数の定義
 //return = 引数を返すように指示する
 
+L.Icon.Default.imagePath = 'marker.png'
+
 
 //日本
 $.getJSON("15-0101.geojson", function(data) {
