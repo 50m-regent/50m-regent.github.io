@@ -10,7 +10,7 @@ L.control.scale()
 //function = 関数の定義
 //return = 引数を返すように指示する
 
-L.Icon.Default.imagePath = './'
+L.Icon.Default.imagePath = 'https://unpkg.com/browse/leaflet@1.3.1/dist/images/'
 
 
 //日本
