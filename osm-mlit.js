@@ -20,6 +20,7 @@ var point = L.geoJson(data, {
     })},
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.施設名称);
+    feature.properties.title = feature.properties.施設名称
 }
 });
 point.addTo(map)
